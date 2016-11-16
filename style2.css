@@ -1,0 +1,22 @@
+h1 {color:#E0CF17;
+    font-size: .5em;
+    text-align: right-justified;
+    font-weight: oblique;
+}
+h3 {color: #E0CF17;
+    font-size: .75em;
+    text-align: left-justified;
+    font-style: bold;
+}
+ul {
+    position:relative;
+    top:10px;
+}
+li{
+    color: #F0F000;
+}
+
+p{
+    color:green;
+    font-style: italic;
+}
