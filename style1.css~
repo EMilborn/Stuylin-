@@ -1,0 +1,22 @@
+h1 {color:1F, 34, E9;
+    font-size: 4em;
+    text-align: center;
+    font-weight: bold;
+}
+h3 {color:1F, 34, E9;
+    font-size: 2em;
+    text-align: center;
+    font-style: italic;
+}
+ul {
+    position:fixed;
+    top:20px;
+}
+li{
+    color: 0F, 0F, FF;
+}
+
+p{
+    color:red;
+    font-style: oblique;
+}
