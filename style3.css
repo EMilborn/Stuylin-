@@ -1,0 +1,29 @@
+body {
+    color: #05668D;
+    background-color: #F0F3BD;
+    font-family: sans-serif;
+}
+
+h1{
+    color: #028090;
+    font-size: 4em;
+    font-family: serif;
+}
+div{
+    background-color: #02C39A;
+}
+
+#head1{
+    text-shadow: 2px 4px 5px #05668D;
+}
+
+.navzone{
+    
+   cursor: crosshair;
+}
+
+.content{
+    border-style: dotted ;
+    border-width: 5px;
+    border-color: #00FFFF;
+}
