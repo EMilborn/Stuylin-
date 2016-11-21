@@ -1,0 +1,14 @@
+body {
+    background: radial-gradient( #247BA0, #70C1B3, #B2DBBF, #F3FFBD );
+    color: #FF1654;
+}
+.list{
+    writing-mode: vertical-rl;
+}
+li::first-letter {
+    font-size: 2em;
+}
+
+p::first-line{
+    font-size:1.25em;
+}
